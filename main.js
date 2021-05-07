@@ -1,0 +1,1 @@
+var url = "https: //teachablemachine.withgoogle.com/models/Y6LA9qo_p/";
